@@ -1,0 +1,57 @@
+# Blender MTL File: 'Import Scene.blend'
+# Material Count: 5
+
+newmtl m_Jade
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd StarJade_Alb.png
+map_d StarJade_Alb.png
+
+newmtl m_Jade_Clear
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd StarJade_Alb.png
+map_d StarJade_Alb.png
+
+newmtl m_MatMetal
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd Metal_Mtl.png
+map_d Metal_Mtl.png
+
+newmtl m_Metal
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd StarMetal_Alb.1.png
+map_d StarMetal_Alb.1.png
+
+newmtl m_WoodPanel
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd StarWoodPanel_Alb.png
+map_d StarWoodPanel_Alb.png
